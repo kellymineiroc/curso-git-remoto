@@ -1,3 +1,2 @@
 # curso-git-remoto
 
-égua
